@@ -1,1 +1,3 @@
-# tensorflow
+# Tensorflow
+
+TensorFlow in C++.
